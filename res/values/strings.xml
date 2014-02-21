@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pidor Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nameLabel">Name</string>
+    <string name="deptLabel">Department</string>
+    <string name="viewBtn">View Logs</string>
+    <string name="loginBtn">Log in!</string>
+    <string name="idLabel">ID Number</string>
+    <string name="logHeader">Logs</string>
+    <string name="nameTable">NAME</string>
+    <string name="deptTable">DEPT</string>
+    <string name="stampTable">STAMP</string>
+
+</resources>
