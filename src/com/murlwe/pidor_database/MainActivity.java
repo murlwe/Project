@@ -13,7 +13,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TableLayout;
 import android.widget.Toast;
-
+murlwe
 public class MainActivity extends Activity {
 	ViewLogs logs;
 	@Override
